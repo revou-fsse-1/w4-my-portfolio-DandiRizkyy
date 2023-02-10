@@ -1,13 +1,23 @@
 ## Dandi Rizky Week 4 Assignment (Deployment and Custom Domain Setup)
 
-## Links
+<img src="https://raw.githubusercontent.com/DandiRizkyy/slackmoji/master/emoji/blob/blob-wave-gif.gif" width="50px" height="50px" alt="hello">
+
+## Description ✍🏻
+
+---
+
+<p> On this week assignments, i do some documentation on how to deploy website to netlify, cloudflare, buy domain at niagahoster and connect custom domain to netlify.
+
+---
+
+## Links 🔗
 
 ---
 
 - Netlify Domain : https://dandirizkyy-week4-portofolio-website.netlify.app/
 - Custom Domain : https://dandirizky.site
 
-## Deployment Process
+## Deployment Process 🔔
 
 ---
 
@@ -36,7 +46,7 @@
   ![Deployed](/assets/8.png)
   ![Deployed](/assets/9.png)
 
-## Buying Domain Name From NiagaHoster
+## Buying Domain Name From NiagaHoster 💡
 
 ---
 
@@ -57,7 +67,7 @@
 - Andd voila ! you just bought a fresh Domain Names
   ![Buying Domain Name](/assets/14.png)
 
-## Custom Domain Setup Process
+## Custom Domain Setup Process 📌
 
 ---
 
@@ -89,7 +99,7 @@
   ![Setup Custom Domain Netlify](/assets/23.png)
   ![Setup Custom Domain Netlify](/assets/24.png)
 
-## All set ! Your Website is Ready !
+## All set ! Your Website is Ready ! 🎊
 
 ---
 
