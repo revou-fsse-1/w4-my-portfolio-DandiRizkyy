@@ -1,0 +1,107 @@
+* {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
+
+header {
+  display: flex;
+  position: fixed;
+  width: 100vw;
+  height: 7vh;
+  background-color: rgb(202, 0, 0);
+  box-shadow: 0px 2px 7px 1px #161717;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+ul {
+  display: flex;
+  position: relative;
+  text-decoration: none;
+  list-style-type: none;
+  gap: 30px;
+  margin-right: 30px;
+}
+
+.hero-page {
+  margin-top: 90px;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+
+.main h1 {
+  justify-content: center;
+
+  display: flex;
+  font-size: 70px;
+}
+
+.main h2 {
+  margin-top: 7px;
+  justify-content: center;
+
+  display: flex;
+}
+
+.main p {
+  margin-top: 7px;
+  justify-content: center;
+  display: flex;
+}
+
+.main img {
+  margin-top: 6px;
+  display: flex;
+  border-radius: 5px;
+  width: 50vw;
+  height: 50vw;
+}
+
+.main .button {
+  margin-top: 10px;
+  display: flex;
+  gap: 30px;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.main .button :nth-child(1) {
+  margin-top: 10px;
+  display: flex;
+  gap: 30px;
+  background-color: blueviolet;
+  color: aliceblue;
+  justify-content: center;
+  padding: 10px;
+  border-radius: 4px;
+  text-decoration: none;
+  list-style: none;
+}
+
+.main .button :nth-child(2) {
+  margin-top: 10px;
+  display: flex;
+  gap: 30px;
+  background-color: rgb(242, 45, 153);
+  color: aliceblue;
+  justify-content: center;
+  padding: 10px;
+  border-radius: 4px;
+  text-decoration: none;
+  list-style: none;
+}
+
+.main .button :nth-child(3) {
+  margin-top: 10px;
+  display: flex;
+  gap: 30px;
+  background-color: rgb(10, 45, 188);
+  color: aliceblue;
+  justify-content: center;
+  padding: 10px;
+  border-radius: 4px;
+  text-decoration: none;
+  list-style: none;
+}
