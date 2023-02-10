@@ -42,13 +42,13 @@
 
 ### 1. Go to NiagaHoster Website
 
-- Hover your mouse to Domain and click Cari & Cek Domain. From there you can input your domain name (dot) site, and they will check it's avaibility. If it's avaiable, you can click pilih.
+- Hover your mouse to Domain and click **Cari & Cek Domain.** From there you can input your domain name (dot) site, and they will check it's **avaibility.** If it's **avaiable**, you can click **pilih.**
   ![Buying Domain Name](/assets/10.png)
   ![Buying Domain Name](/assets/11.png)
 
 ### 2. Finish The Payment Method
 
-- You can use a lot of different payment methods here. Click Lanjutkan to finish the payment process.
+- You can use a lot of different payment methods here. Click **Lanjutkan** to finish the payment process.
   ![Buying Domain Name](/assets/12.png)
 
 - Because i already bought the domain name before, after done the payment process, hover your mouse to **Layanan** and click **Layanan Saya**.
@@ -74,21 +74,20 @@
   ![Setup Domain](/assets/18.png)
   ![Setup Domain](/assets/19.png)
 
-Also dont forget to change the original niagahoster nameservers to cloudflare nameservers (the changing process could take up to 24 hours, so be patient.)
+- Also dont forget to change the original **niagahoster nameservers** to **cloudflare nameservers** (the changing process could take up to 24 hours, so be patient.)
+  ![Setup Domain](/assets/20.png)
+  ![Setup Domain](/assets/21.png)
 
-![Setup Domain](/assets/20.png)
-![Setup Domain](/assets/21.png)
-
-Anddddd that's it ! The next step is Setting Custom Domain on Netlify.
+  Anddddd that's it ! The next step is Setting Custom Domain on Netlify.
 
 ### 2. Setting up Custom Domain to Netlify
 
-After you set your domain on cloudflare, go back to netlify and click **set custom domain**
-![Setup Custom Domain Netlify](/assets/22.png)
+- After you set your domain on cloudflare, go back to netlify and click **set custom domain**
+  ![Setup Custom Domain Netlify](/assets/22.png)
 
-Enter your domain names, click **verify** and **add domain.**
-![Setup Custom Domain Netlify](/assets/23.png)
-![Setup Custom Domain Netlify](/assets/24.png)
+- Enter your domain names, click **verify** and **add domain.**
+  ![Setup Custom Domain Netlify](/assets/23.png)
+  ![Setup Custom Domain Netlify](/assets/24.png)
 
 ## All set ! Your Website is Ready !
 
